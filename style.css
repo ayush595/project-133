@@ -1,0 +1,27 @@
+body
+{
+    letter-spacing: 5px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+   /* background: linear-gradient(to left bottom, #f7f7f7, #c4c4c7, #949499, #65676e, #3a3d45, #323c49, #263b4d, #123b50, #00647d, #0091a7, #00c0c8, #02f1e1);
+    background-size: cover;
+    background-position: center;*/
+}
+#identity
+{
+    box-shadow: 4px 4px 12px darkgreen;
+    font-size: 28px;
+}
+#dot
+{
+    font-size: 11px;
+    box-shadow: 4px 4px 12px yellow;
+}
+canvas
+{
+    background-color: yellowgreen;
+}
+#boom
+{
+   background: url("https://i.pinimg.com/originals/91/40/34/9140344bc7b371015f6214279e91df5e.jpg");
+    background-size: cover;
+}
